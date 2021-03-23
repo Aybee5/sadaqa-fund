@@ -229,7 +229,7 @@
           </div>
         </div>
       </div>
-      <!-- <div class="bg-red-500 mt-32 pt-6 text-center text-bold text-white">© 2021 HOOLI GAMERS.</div> -->
+      <!-- <div class="bg-green-500 mt-32 pt-6 text-center text-bold text-white">© 2021 HOOLI GAMERS.</div> -->
       <h1 class="text-lg text-white uppercase font-bold text-center">sadaqah-fund</h1>
       <div class="flex justify-center mt-4">
         <img src="https://donate-ng.com/assets/images/facebook.png" class="w-20 px-2" alt="">
