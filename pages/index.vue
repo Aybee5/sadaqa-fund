@@ -1,14 +1,14 @@
 <template>
   <div class="bg-white">
     <nav class="flex fixed w-full shadow-lg bg-white z-50">
-      <div class="mr-60">
+      <div class="mr-24">
         <img
           src="https://image.freepik.com/free-vector/abstract-s-logo-design_8586-76.jpg"
           class="w-20 ml-28"
           alt=""
         />
       </div>
-      <div class="flex pl-96 my-7 text-red-400">
+      <div class="flex pl-96 my-7 text-green-400">
         <div class="flex pr-12 cursor-pointer">
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -99,12 +99,12 @@
       <span>daly quote</span>
       <div class="uppercase pt-32">
         <button
-          class="font-semibold text-md py-2 px-9 text-white border-2 bg-red-400 rounded-xl hover:shadow-inner transform hover:scale-105 transition ease-out duration-300"
+          class="font-semibold text-md py-2 px-9 text-white border-2 bg-green-400 rounded-xl hover:shadow-inner transform hover:scale-105 transition ease-out duration-300"
         >
           Donate
         </button>
         <button
-          class="font-semibold text-md py-2 px-9 text-white border-2 bg-red-400 rounded-xl hover:shadow-inner transform hover:scale-105 transition ease-out duration-300"
+          class="font-semibold text-md py-2 px-9 text-white border-2 bg-green-400 rounded-xl hover:shadow-inner transform hover:scale-105 transition ease-out duration-300"
         >
           Share
         </button>
@@ -141,7 +141,7 @@
     </div>
     <div class="text-center my-20">
       <button
-        class="font-semibold uppercase text-md py-4 px-9 text-white border-2 bg-red-400 rounded-xl hover:shadow-inner transform hover:scale-105 transition ease-out duration-300"
+        class="font-semibold uppercase text-md py-4 px-9 text-white border-2 bg-green-400 rounded-xl hover:shadow-inner transform hover:scale-105 transition ease-out duration-300"
       >
         start a project
       </button>
@@ -168,10 +168,10 @@
       </p>
       <p>Tel: +2348000000000</p>
       <p>Email: bla-bla-bla@hooli.com</p>
-      <div class="flex ml-72">
+      <div class="flex ml-48">
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          class="ml-96 w-9 border-current text-red-400"
+          class="ml-96 w-9 border-current text-green-400"
           fill="none"
           viewBox="0 0  24   24"
           stroke="currentColor"
@@ -186,7 +186,7 @@
         <h1 class="">Contact Us Now</h1>
       </div>
     </div>
-    <div class="bg-red-400 h-96 mt-12">
+    <div class="bg-green-400 h-96 mt-12">
       <div class="flex justify-around">
         <div class="text-white">
           <h2 class="text-lg uppercase font-bold mt-12">About sadaqah-fund</h2>

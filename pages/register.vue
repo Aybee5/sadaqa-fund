@@ -1,10 +1,10 @@
 <template>
   <div class="bg-gray-200">
     <nav class="flex fixed w-full shadow-lg bg-white z-50">
-      <div class="mr-60">
+      <div class="mr-24">
         <img src="https://image.freepik.com/free-vector/abstract-s-logo-design_8586-76.jpg" class="w-20 ml-28" alt=""/>
       </div>
-        <div class="flex pl-96 my-7 text-red-400">
+        <div class="flex pl-96 my-7 text-green-400">
             <div class="flex pr-12 cursor-pointer">
                 <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -88,7 +88,7 @@
         <h1 class="font-semibold text-4xl my-3 text-gray-600">Sign-up</h1>
         <p class="text-gray-600">
           Already have an account?
-          <span class="cursor-pointer hover:text-red-400 hover:underline">
+          <span class="cursor-pointer hover:text-green-400 hover:underline">
             <nuxt-link to="/login" target="/login">Login</nuxt-link>
           </span>
         </p>
@@ -135,20 +135,20 @@
             />
             <label for="checkbox">Remember me</label>
           </div>
-          <div class="text-blue-900 hover:text-red-400 hover:underline mr-20">
+          <div class="text-blue-900 hover:text-green-400 hover:underline mr-20">
             <nuxt-link to="/forget_password" target="/forget_password"
               >Forgot password?</nuxt-link
             >
           </div>
         </div>
         <button
-          class="font-semibold w-80 my-12 text-md py-2 px-9 text-white bg-red-400 rounded-xl hover:shadow-inner transform hover:scale-105 transition ease-out duration-300"
+          class="font-semibold w-80 my-12 text-md py-2 px-9 text-white bg-green-400 rounded-xl hover:shadow-inner transform hover:scale-105 transition ease-out duration-300"
         >
           Sign-up
         </button>
       </div>
     </div>
-    <div class="bg-red-400 h-96 mt-44">
+    <div class="bg-green-400 h-96 mt-44">
       <div class="flex justify-around">
         <div class="text-white">
           <h2 class="text-lg uppercase font-bold mt-12">About sadaqah-fund</h2>
